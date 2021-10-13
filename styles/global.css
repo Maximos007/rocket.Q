@@ -6,7 +6,7 @@
   box-sizing: border-box;
 }
 
-html {
+:root {
   --black: #0D114F;
   --white: #FAFAFA;
   --red: #E83F5B;
@@ -21,7 +21,7 @@ html {
   --grey-light:#E5EAF1;
 
   /* 1rem = 16px (User Agent) = 100% (User Agent) */
-  font-size: 62.5% /* 10px */
+  font-size: 62.5%  /*10px*/
 }
 
 body {
