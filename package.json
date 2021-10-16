@@ -19,7 +19,9 @@
   "homepage": "https://github.com/Maximos007/rocket.Q#readme",
   "dependencies": {
     "ejs": "^3.1.6",
-    "express": "^4.17.1"
+    "express": "^4.17.1",
+    "sqlite": "^4.0.23",
+    "sqlite3": "^4.2.0"
   },
   "devDependencies": {
     "eslint": "^8.0.1",
