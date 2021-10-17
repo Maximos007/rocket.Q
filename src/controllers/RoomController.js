@@ -1,11 +1,3 @@
-// module.exports = {
-// 	create(req, res){
-// 		let roomId = 122222;
-// 		res.redirect(`/room/${roomId}`);
-// 	}
-// };
-
-
 const Database = require('../db/config');
 
 module.exports = {
